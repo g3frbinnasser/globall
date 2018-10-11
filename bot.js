@@ -84,7 +84,7 @@ if (message.content.startsWith(prefix + 'setplay')) {
   }).then(invite =>
    msg.author.sendMessage(`
          <@${msg.author.id}> 
-         **- رابــط لسيـرفر , Global.. :leaves: **
+         **- رابــط لسيـرفر , United.. :leaves: **
          **- [ ${invite.url} ]**
          **- عـدد الاستخدامات , 5 **
          `)
